@@ -5,5 +5,4 @@ node {
     stage('Build') {
         echo "Build Gradle App"
     }
-    sh "dir"
 }
